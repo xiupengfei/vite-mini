@@ -1,0 +1,14 @@
+$color: red;
+
+.test {
+  h3 {
+    color: $color;
+  }
+
+  .img {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    background: url("assets/logo.png") no-repeat;
+  }
+}
