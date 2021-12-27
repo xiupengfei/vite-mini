@@ -1,0 +1,2 @@
+# vite-mini
+vite-mini
